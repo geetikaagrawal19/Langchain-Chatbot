@@ -1,0 +1,7 @@
+[theme]
+base="light"
+primaryColor="#FF9494"           # Accent color (buttons, highlights)
+backgroundColor="#F8E8EE"        # Main background
+secondaryBackgroundColor= "#F9F5F6"  # Chat bubble/sidebar background
+textColor="#4a4a4a"               # Main text color
+font="sans serif" 
